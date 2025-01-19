@@ -3,8 +3,8 @@ package db
 import (
 	"sync"
 
-	"github.com/john-moris/receipt-processor-challenge/internal/domain/repository"
 	"github.com/google/uuid"
+	"github.com/john-moris/receipt-processor-challenge/internal/domain/repository"
 	"go.uber.org/zap"
 )
 
